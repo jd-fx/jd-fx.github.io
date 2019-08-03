@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>jd-fx-icon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.4%" y="-6.8%" width="108.9%" height="113.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="85.9405263%" y1="43.0081329%" x2="9.99958058%" y2="43.0081329%" id="linearGradient-2">
+            <stop stop-color="#CBCBCB" offset="0%"></stop>
+            <stop stop-color="#F2F2F2" offset="50.1781205%"></stop>
+            <stop stop-color="#CBCBCB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.8423221%" y1="0%" x2="48.8423221%" y2="92.0995543%" id="linearGradient-3">
+            <stop stop-color="#F2F2F2" offset="0%"></stop>
+            <stop stop-color="#CBCBCB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.9850554%" y1="43.0081329%" x2="9.99958058%" y2="43.0081329%" id="linearGradient-4">
+            <stop stop-color="#D0D0D0" offset="0%"></stop>
+            <stop stop-color="#969696" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="38.732409%" cy="50%" fx="38.732409%" fy="50%" r="121.004284%" gradientTransform="translate(0.387324,0.500000),scale(0.193548,1.000000),scale(1.000000,0.404062),translate(-0.387324,-0.500000)" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="2.63050939%"></stop>
+            <stop stop-color="#22110A" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="41.0244049%" cy="50%" fx="41.0244049%" fy="50%" r="115.892915%" gradientTransform="translate(0.410244,0.500000),scale(0.193548,1.000000),scale(1.000000,0.404062),translate(-0.410244,-0.500000)" id="radialGradient-6">
+            <stop stop-color="#482E23" offset="0%"></stop>
+            <stop stop-color="#22110A" offset="100%"></stop>
+        </radialGradient>
+        <path d="M119,92 C117.592247,92 97.8969985,71.7389654 95,68 C91.2301151,63.1344577 90,59.042176 90,56 C90,51.2592173 92,46 102,41 C114.929623,34.5351884 133.813254,30.4254926 141,22 C144.608578,17.7694278 140.275245,10.4360945 128,0 C150.012177,12.1445967 160.678843,23.4779301 160,34 C158.981735,49.7831049 124,55 124,62 C124,69 137,76 139,83 C141,90 122,92 119,92 Z" id="path-7"></path>
+        <filter x="-10.0%" y="-5.4%" width="120.0%" height="115.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.228802448 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-9.3%" y="-4.9%" width="118.6%" height="114.1%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="2" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="jd-fx-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Coffee-Cup" transform="translate(9.000000, 12.000000)">
+            <g id="Outside" filter="url(#filter-1)" transform="translate(0.000000, 78.000000)" stroke="#979797" stroke-width="2">
+                <path d="M45,127 L45,139.614652 C53.8110572,149.135107 78.1925698,154 118,154 C157.80743,154 182.188943,149.135107 191,139.614652 L191,127 L45,127 Z" id="Base" fill="#D8D8D8"></path>
+                <path d="M41,23.7482933 L41,129.652144 C50.2581928,141.143834 75.9557319,147 118,147 C160.044268,147 185.741807,141.143834 195,129.652144 L195,23.7482933 C175.040101,35.255938 149.369783,41 118,41 C86.6302169,41 60.9598988,35.255938 41,23.7482933 Z" id="Body" fill="url(#linearGradient-2)"></path>
+                <ellipse id="Rim" fill="url(#linearGradient-3)" cx="118" cy="21" rx="77" ry="20"></ellipse>
+                <path d="M193,44.8002383 L193,64.4480189 C208.69634,57.3973663 217.56852,55.900972 219.894427,60.5527864 C223.00843,66.7807912 213.94161,75.9188328 193.000006,88.5649558 L193,108.239965 C219.386648,92.4309847 233.395776,79.5425828 235.013606,69.835601 C235.732756,65.5207025 235.87097,60.0847856 235.014845,55.1716661 C233.91579,48.8644258 231.323195,43.9565924 227.520285,41.8774244 C223.457809,39.6563433 211.839124,40.5899167 193.000007,44.8002368 Z" id="Handle" fill="#D8D8D8"></path>
+            </g>
+            <g id="Inside" transform="translate(52.000000, 84.000000)">
+                <ellipse id="Oval-Copy-3" fill="url(#linearGradient-4)" cx="65" cy="16" rx="65" ry="16"></ellipse>
+                <ellipse id="Oval" fill="url(#radialGradient-5)" cx="66" cy="20" rx="62" ry="12"></ellipse>
+                <ellipse id="Oval" fill="url(#radialGradient-6)" cx="66" cy="20" rx="62" ry="12"></ellipse>
+            </g>
+            <g id="Steam">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill-opacity="0.600232111" fill="#494949" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-7"></use>
+            </g>
+        </g>
+    </g>
+</svg>

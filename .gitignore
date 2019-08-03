@@ -1,0 +1,9 @@
+### Folders
+.idea
+.sass-cache/
+gen
+out
+
+### Files
+*.css.map
+*.iml
